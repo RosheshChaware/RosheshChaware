@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ihub-anand/github-pacman-contribution/main/pacman.svg">
+  <img src="https://raw.githubusercontent.com/catppuccin/github-pacman/master/pacman.svg">
 </p>
 
 ###
