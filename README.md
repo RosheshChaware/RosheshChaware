@@ -1,40 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Roshesh%20Chaware&fontSize=70&fontAlign=50&fontAlignY=35&animation=twinkling&color=0:0d1117,50:161b22,100:1a1b27&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20IoT%20Enthusiast&descSize=18&descAlign=50&descAlignY=55&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&reversal=false&text=Roshesh%20Chaware&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&textBg=false&color=gradient" />
 
 </div>
 
-<!-- Animated Typing -->
-<div align="center">
+---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%92%BB+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;%F0%9F%A7%A0+DSA+%7C+System+Design+%7C+Problem+Solving" alt="Typing SVG" /></a>
-
-</div>
-
-<br/>
-
-<!-- Profile Badges -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RosheshChaware&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/RosheshChaware?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github&logoColor=58a6ff" alt="Followers"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
-
-<div align="center">
-
-### 🎮 Contribution Graph
-
-<br/>
+## 🟡 Contribution Graph
+<p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -42,236 +15,122 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
+</p>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<h2 align="center">👋 Hi, I'm <b>Roshesh Chaware</b></h2>
 
-<br/>
+<p align="center">
+🚀 Full Stack Developer | React • Next.js • Node.js <br/>
+🎓 CSE Student | AI & IoT Enthusiast
+</p>
 
-<!-- ═══════════════════ INTRO ═══════════════════ -->
+---
 
-<div align="center">
+## 👨‍💻 About Me
 
-<img src="https://img.shields.io/badge/👋_Hi,_I'm-Roshesh_Chaware-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Name Badge"/>
+💻 Full Stack Developer  
+🌱 Learning React, Next.js, System Design & AI  
+🧠 Passionate about DSA, Problem Solving & Software Engineering  
+🤖 Exploring AI, Computer Vision & IoT Technologies  
+🎓 B.Tech CSE @ G.H. Raisoni College of Engineering, Nagpur  
 
-<br/><br/>
+---
 
-<img src="https://img.shields.io/badge/🚀_Full_Stack_Developer-React_•_Next.js_•_Node.js-1f6feb?style=flat-square&labelColor=0d1117" alt="Role"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎓_CSE_Student-AI_&_IoT_Enthusiast-238636?style=flat-square&labelColor=0d1117" alt="Student"/>
+## 🏆 Achievements
 
-</div>
+🥇 1st Prize — District Level Science & Innovation Competition  
+🥈 National Science Innovation Fair — 2nd Runner-Up  
+🥉 Abhyudaya 2026 Project Competition — 3rd Runner-Up  
+🚀 Swalambh Hackathon — Top 15 Teams  
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr><td>
-
-```js
-const roshesh = {
-    role: "💻 Full Stack Developer",
-    learning: "🌱 React, Next.js, System Design & AI",
-    passion: "🧠 DSA, Problem Solving & Software Engineering",
-    exploring: "🤖 AI, Computer Vision & IoT Technologies",
-    education: "🎓 B.Tech CSE @ G.H. Raisoni College of Engineering, Nagpur"
-};
-```
-
-</td></tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/3ohzAu2U1tOafteBa0/giphy.gif" width="30"> Achievements
-
-<br/>
-
-<img src="https://img.shields.io/badge/🥇_1st_Prize-District_Level_Science_&_Innovation_Competition-ffd700?style=for-the-badge&labelColor=0d1117" alt="1st Prize"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🥈_2nd_Runner--Up-National_Science_Innovation_Fair-c0c0c0?style=for-the-badge&labelColor=0d1117" alt="2nd Runner-Up"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🥉_3rd_Runner--Up-Abhyudaya_2026_Project_Competition-cd7f32?style=for-the-badge&labelColor=0d1117" alt="3rd Runner-Up"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🚀_Top_15_Teams-Swalambh_Hackathon-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Top 15"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
-<div align="center">
+---
 
 ## 🛠️ Tech Stack
 
-</div>
+---
 
-<br/>
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=ts" height="40"/>
+</p>
 
-<!-- Programming Languages -->
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-0d1117?style=for-the-badge" alt="Languages"/>
+### 🎨 Frontend
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+<img src="https://skillicons.dev/icons?i=vite" height="40"/>
+</p>
 
-<br/><br/>
+---
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts&theme=dark" alt="Languages"/>
+### ⚙️ Backend & Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=express" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40"/>
+</p>
 
-</div>
+---
 
-<br/><br/>
+### 🛠️ Tools & Technologies
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+<img src="https://skillicons.dev/icons?i=postman" height="40"/>
+<img src="https://skillicons.dev/icons?i=figma" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
+</p>
 
-<!-- Frontend -->
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/🎨_FRONTEND-0d1117?style=for-the-badge" alt="Frontend"/>
+## 🚀 Projects
 
-<br/><br/>
+<p align="center">
+<img src="https://pbs.twimg.com/media/HLmIBy6XcAAdwym?format=jpg&name=large" height="420"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite&theme=dark" alt="Frontend"/>
-
-</div>
-
-<br/><br/>
-
-<!-- Backend & Database -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/⚙️_BACKEND_&_DATABASE-0d1117?style=for-the-badge" alt="Backend"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,firebase,appwrite&theme=dark" alt="Backend"/>
-
-</div>
-
-<br/><br/>
-
-<!-- Tools & Technologies -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/🛠️_TOOLS_&_TECHNOLOGIES-0d1117?style=for-the-badge" alt="Tools"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma,aws&theme=dark" alt="Tools"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Projects
-
-<br/>
-
-<img src="https://pbs.twimg.com/media/HLmIBy6XcAAdwym?format=jpg&name=large" height="420" style="border-radius: 12px;"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-<div align="center">
+---
 
 ## 📊 Contribution Streak
 
-<br/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RosheshChaware&theme=dracula&hide_border=false&border_radius=8" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=RosheshChaware&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RosheshChaware&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=12" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosheshChaware&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12" alt="Top Languages" height="180"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
-<div align="center">
+---
 
 ## 🌐 Connect With Me
 
-<br/>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/rosheshchaware/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://x.com/Roshesh_DevX" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
 </a>
 
-</div>
+</p>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🔥_Built_with_passion_•_Clean_UI_•_Developer_vibes_only_🚀-0d1117?style=for-the-badge" alt="Footer"/>
+🔥 Built with passion • Clean UI • Developer vibes only 🚀
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:161b22,100:1a1b27" />
